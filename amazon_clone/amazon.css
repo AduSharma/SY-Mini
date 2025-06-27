@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("lo.jpg");
+    background-image: url("images/lo.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -115,7 +115,7 @@ span{
     font-weight: 700
 }
 .hero-sec{
-    background-image: url("heroimg.jpg");
+    background-image: url("images/heroimg.jpg");
     background-size: cover;
     height: 330px;
     display: flex;
