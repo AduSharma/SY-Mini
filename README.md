@@ -2,7 +2,7 @@
  This folder contains SY-Mini projects 
 <br>
 Author : Aditya <br> 
-This folder contains 3 miniprojects <br>
+This folder contains 4 miniprojects <br>
 1 - Amazon Clone <br>
 2 - Tic-Tac-Toe <br>
 3 - Rock-Paper-Scissors <br>
